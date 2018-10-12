@@ -1,0 +1,2 @@
+# Disaster-management-
+The project is about warning people when the water level of the sea increases. (ie) the current affair that is going on is that the sea water level is expected to increase to about 8metres within the next 100 years. The water level rise owes it's reason to the increase in green house gas. At such cases an alarm can be given as and when the green house gas and the water level is increased above a particular limit. We can also calculate  the area which is going to be affected when water level rises to different levels. 
